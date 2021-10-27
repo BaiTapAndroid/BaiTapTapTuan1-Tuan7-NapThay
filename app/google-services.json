@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634321415330",
+    "project_id": "kiemtralevantai",
+    "storage_bucket": "kiemtralevantai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634321415330:android:b05c94b012de75328b3bfb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634321415330-v7fp6npmr2n4rv5gsptqarh6ma4t2eju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8gvL1Jf4yK146zs3K-bqEUn7Jefes7Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634321415330-v7fp6npmr2n4rv5gsptqarh6ma4t2eju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
